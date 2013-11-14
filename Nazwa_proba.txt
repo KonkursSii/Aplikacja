@@ -1,2 +1,11 @@
 pierwsza linijka
+<<<<<<< HEAD
 druga po commiciefff
+=======
+druga po commicie
+Johnny Brawo: Lubie placki  
+Johnny asdasdasdasfasda VVV 333 444
+>>>>>>> 7abf5f365b29564b5d3d35b433ab95bd00dc350f
+
+
+Trzeci commit
